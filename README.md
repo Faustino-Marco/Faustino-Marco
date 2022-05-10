@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@Faustino-Marco**; my coworkers and friends call me *Marco*.
 - 👀 I’m interested in coding, foreign language, traveling, sports, movies, cooking, and music.
-- 🌱 I’m currently learning to code in CodeFellows' 102 course, *Intro to Software Development*.
+- 🌱 I’m currently learning to code in CodeFellows' 201 course, *Foundations of Software Development*.
 - 💞️ I’m looking to collaborate on projects with others that help me grow professionally and personally.
 ```
 You can reach me via email or SMS:
