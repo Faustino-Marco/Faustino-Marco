@@ -1,11 +1,10 @@
-👋 Hi, I’m **@Faustino-Marco**; my coworkers and friends call me *Marco*. 
-👀 I’m interested in coding, foreign language, traveling, sports, movies, cooking, and music.
-🌱 I learned to code in CodeFellows' course, *"Advanced Software Development in Python"*.
-💞️ I’m looking to collaborate on projects with others that help me grow professionally and personally.
+- 👋 Hi, I’m **@Faustino-Marco**; my coworkers and friends call me *Marco*. 
+- 👀 I’m interested in data, foreign language, traveling, sports, movies, cooking, and music.
+- 🌱 I learned to code in CodeFellows' course, *"Advanced Software Development in Python"*.
+- 💞️ I’m looking to collaborate on projects with others that help me grow both professionally and personally.
+- You can reach me via email at:
 ```
-You can reach me via email or SMS:
-Email: marco.simpliciano@gmail.com
-Mobile: (425) 375-8794
+marco.simpliciano@gmail.com
 ```
 
 <!---
